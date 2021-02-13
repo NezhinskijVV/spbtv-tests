@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MBP-Vitalij",
+    "children" : [ {
+      "name" : "10917-MainThread",
+      "children" : [ {
+        "name" : "test_check_register_username",
+        "uid" : "5488eccdd780fe28",
+        "parentUid" : "016105db207095fd6611c02096234d88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613231564019,
+          "stop" : 1613231564109,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_check_not_register_username",
+        "uid" : "be5928137df40f4d",
+        "parentUid" : "016105db207095fd6611c02096234d88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613231562969,
+          "stop" : 1613231564016,
+          "duration" : 1047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_smoke",
+        "uid" : "16d2a4e3da5e3574",
+        "parentUid" : "016105db207095fd6611c02096234d88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613231562749,
+          "stop" : 1613231562966,
+          "duration" : 217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "016105db207095fd6611c02096234d88"
+    } ],
+    "uid" : "1ed1d0aca9b9f3b0b6d6b4262f76588c"
+  } ]
+}

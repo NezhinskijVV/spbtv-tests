@@ -1,0 +1,53 @@
+{
+  "uid" : "16d2a4e3da5e3574",
+  "name" : "test_smoke",
+  "fullName" : "login_test.TestLoginForm#test_smoke",
+  "historyId" : "a36eb935a25cab48428bb8b3688a92e7",
+  "time" : {
+    "start" : 1613231562749,
+    "stop" : 1613231562966,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "login_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLoginForm"
+  }, {
+    "name" : "host",
+    "value" : "MBP-Vitalij"
+  }, {
+    "name" : "thread",
+    "value" : "10917-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "login_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16d2a4e3da5e3574.json",
+  "parameterValues" : [ ]
+}

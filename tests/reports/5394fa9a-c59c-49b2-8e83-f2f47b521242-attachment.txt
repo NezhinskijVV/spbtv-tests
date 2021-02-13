@@ -1,0 +1,1 @@
+{'data': {'available': True, 'format': 'seekerrofconfessor@gmail.com', 'type': 'email', 'object': 'username_availability'}, 'meta': {'status': 200}}

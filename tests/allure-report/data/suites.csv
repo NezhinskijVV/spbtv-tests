@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Feb 13 18:52:44 MSK 2021","Sat Feb 13 18:52:44 MSK 2021","90","","login_test","TestLoginForm","","","test_check_register_username",""
+"passed","Sat Feb 13 18:52:42 MSK 2021","Sat Feb 13 18:52:44 MSK 2021","1047","","login_test","TestLoginForm","","","test_check_not_register_username",""
+"passed","Sat Feb 13 18:52:42 MSK 2021","Sat Feb 13 18:52:42 MSK 2021","217","","login_test","TestLoginForm","","","test_smoke",""
